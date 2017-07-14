@@ -1,2 +1,3 @@
 # web-goto-app
-browser's webpage jump to a naive application on mobile。web页面跳转到app里
+browser's `webpage` jump to a naive `application` on `mobile`。
+`web`页面跳转到`app`里
