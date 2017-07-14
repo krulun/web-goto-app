@@ -14,7 +14,7 @@ function btnClick(urlScheme){
       clearInterval(openAppDelay);
     }
   
-  },100)
+  },1000)
 
 };
 function openapp(urlScheme){
